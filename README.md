@@ -6,3 +6,10 @@ Simulation Software Used: Proteus Design Suite - 8.11
 | ![](Circuit_Proteus.JPG) | 
 |:--:| 
 | **Circuit Diagram:** *Complete circuitry rigged up in Proteus simulation software* |
+
+## Working: 
+Whenever the temperature moniterd by the LM35 Temperature Sebsor goes below 20 degree celsius the **heater gets turned on** and whenever the temperature goes beyond 30 degree celsius (threshold) the **Air conditioner gets turned on**.
+
+| ![](Working.GIF) | 
+|:--:| 
+| **Circuitry working** |
