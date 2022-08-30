@@ -8,8 +8,8 @@ Simulation Software Used: Proteus Design Suite - 8.11
 | **Circuit Diagram:** *Complete circuitry rigged up in Proteus simulation software* |
 
 ## Working: 
-Whenever the temperature moniterd by the LM35 Temperature Sebsor goes below 20 degree celsius the **heater gets turned on** and whenever the temperature goes beyond 30 degree celsius (threshold) the **Air conditioner gets turned on**.
+Whenever the temperature moniterd by the LM35 Temperature Sebsor goes below 20 degree celsius the ***Heater gets turned on*** and whenever the temperature goes beyond 30 degree celsius (threshold) the ***Air conditioner gets turned on***.
 
-| ![]<p><img align="center" alt="gif" src="https://github.com/T-Shreyas/Autonomous-Heater-and-Air-Conditioner/blob/main/Working.gif" /></p> |
+| <p><img align="center" alt="gif" src="https://github.com/T-Shreyas/Autonomous-Heater-and-Air-Conditioner/blob/main/Working.gif" /></p> |
 |:--:| 
 | **Working Simulation** |
