@@ -1,4 +1,4 @@
-# Autonomous-Heater-and-Air-Conditioner
+# Autonomous-Heater-and-Air-Conditioner using AVR Microcontroller
 Automatically Detects the rise and fall in the temperature with the help of LM35 Temperature sensor and accordingly turns on/off the Heater and Air Conditioner with the help of AVR Microcontroller. 
 
 Simulation Software Used: Proteus Design Suite - 8.11
